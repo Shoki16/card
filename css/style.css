@@ -1,0 +1,31 @@
+.card {
+  width: 360px;
+  margin: 100px auto 0;
+}
+.card-img {
+  width: 100%;
+}
+.category {
+  color: white;
+  font-size: 14px;
+  background-color: #008888;
+  margin-bottom: 15p;
+  display: inline;
+}
+.content {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+.tag {
+  font-size: 14px;
+  margin-bottom: 15px;
+  text-align: right;
+}
+.day {
+  color: #888888;
+  font-size: 14px;
+  margin-left: 20px;
+  display: block;
+  text-align: right;
+
+}
